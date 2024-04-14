@@ -9,10 +9,7 @@ Zwrotka3.txt
 
 Refren1.txt
 
-Dziś, kiedy jesteśmy razem
-Odwróciłam twarz ku ścianie
-Róża? Jak wygląda róża?
-Czy to kwiat? A może kamień?
+Zwrotka4.txt
 
 Czemu ty się, zła godzino
 Z niepotrzebnym mieszasz lękiem?
