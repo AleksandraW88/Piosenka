@@ -17,7 +17,4 @@ Refren3.txt
 
 Refren4.txt
 
-Czemu ty się, zła godzino
-Z niepotrzebnym mieszasz lękiem?
-Jesteś – a więc musisz minąć
-Miniesz – a więc to jest piękne
+Refren2_powtorzenie.txt
