@@ -7,15 +7,7 @@ Zwrotka2.txt
 
 Zwrotka3.txt
 
-Wczoraj, kiedy twoje imię
-Ktoś wymówił przy mnie głośno
-Tak mi było, jakby róża
-Przez otwarte wpadła okno
-
-Wczoraj, kiedy twoje imię
-Ktoś wymówił przy mnie głośno
-Tak mi było, jakby róża
-Przez otwarte wpadła okno
+Refren1.txt
 
 Dziś, kiedy jesteśmy razem
 Odwróciłam twarz ku ścianie
