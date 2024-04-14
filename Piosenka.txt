@@ -3,10 +3,7 @@ na podst. ,,Nic dwa razy" W. Szymborksa
 
 Zwrotka1.txt
 
-Choćbyśmy uczniami byli
-Najtępszymi w szkole świata
-Nie będziemy repetować
-Żadnej zimy ani lata
+Zwrotka2.txt
 
 Żaden dzień się nie powtórzy
 Nie ma dwóch podobnych nocy
