@@ -11,10 +11,7 @@ Refren1.txt
 
 Zwrotka4.txt
 
-Czemu ty się, zła godzino
-Z niepotrzebnym mieszasz lękiem?
-Jesteś – a więc musisz minąć
-Miniesz – a więc to jest piękne
+Refren2.txt
 
 Wczoraj, kiedy twoje imię
 Ktoś wymówił przy mnie głośno
