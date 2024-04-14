@@ -13,15 +13,7 @@ Zwrotka4.txt
 
 Refren2.txt
 
-Wczoraj, kiedy twoje imię
-Ktoś wymówił przy mnie głośno
-Tak mi było, jakby róża
-Przez otwarte wpadła okno
-
-Wczoraj, kiedy twoje imię
-Ktoś wymówił przy mnie głośno
-Tak mi było, jakby róża
-Przez otwarte wpadła okno
+Refren3.txt
 
 Uśmiechnięci, współobjęci
 Próbujemy szukać zgody
