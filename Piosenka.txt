@@ -5,10 +5,7 @@ Zwrotka1.txt
 
 Zwrotka2.txt
 
-Żaden dzień się nie powtórzy
-Nie ma dwóch podobnych nocy
-Dwóch tych samych pocałunków
-Dwóch jednakich spojrzeń w oczy
+Zwrotka3.txt
 
 Wczoraj, kiedy twoje imię
 Ktoś wymówił przy mnie głośno
