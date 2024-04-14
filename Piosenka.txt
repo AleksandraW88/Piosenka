@@ -17,4 +17,4 @@ Refren3.txt
 
 Refren4.txt
 
-Refren2_powtorzenie.txt
+Refren2.txt
