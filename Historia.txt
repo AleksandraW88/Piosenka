@@ -1,0 +1,693 @@
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log
+commit e1d2f8414130e4f754cb68fdb8b033515408a3cc (HEAD -> master)
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:24:07 2024 +0200
+
+    W pliku Piosenka.txt w miejscu nazwy usunietego pliku Refren2_powtorzenie.txt wpisano Refren2.txt
+
+commit 564c5bda2f0a40628b7f580223fd98462f4480f2
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:14:24 2024 +0200
+
+    Revert "Usuniecie pierwszej linii w pliku Refren1.txt"
+    
+    This reverts commit 2c6179d70ee13ee5f3f9e6bd8e44cadaa7c4ce61.
+
+commit 2c6179d70ee13ee5f3f9e6bd8e44cadaa7c4ce61
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:12:08 2024 +0200
+
+    Usuniecie pierwszej linii w pliku Refren1.txt
+
+commit b2bb540018b7016236205d2604cfa42904c6e9e2
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:10:52 2024 +0200
+
+    Zastapienie ostatniego refrenu nazwa pliku Refren2_powtorzenie.txt w pliku Piosenka.txt
+
+commit 8758094c1106e0e42dfb61ef98e1989eb97ed4e4
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:09:35 2024 +0200
+
+    Dodanie pliku Refren2_powtorzenie.txt do repo
+
+commit 56ca1260e3e30a2f695b6cfe71f1dfce4c48001c
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:08:28 2024 +0200
+
+    Zastapienie refrenu 4 nazwa pliku Refren4.txt w pliku Piosenka.txt
+
+commit d8346c538181abe04a16382742f2e8cbd35c7b80
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:07:40 2024 +0200
+
+    Dodanie pliku Refren4.txt do repo
+
+commit 64f76fb6e8c885e7fda4c5df772e54b06a326fc9
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:06:10 2024 +0200
+
+    Zastapienie refrenu 3 na nazwe pliku Refren3.txt w pliku Piosenka.txt
+
+commit ef6899d381bf323d305b595a6ac163cf2be2d2f9
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:05:17 2024 +0200
+
+    Dodanie pliku Refren3.txt do repo
+
+commit fc988324b8281ae919f13536d903bdd16b44bbeb
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:04:09 2024 +0200
+
+    Zastapienie refrenu nr 2 nazwa pliku Refren2.txt w pliku Piosenka.txt
+
+commit c2b3917f3cc30635b418fbffecb2f2ba50bdf0f8
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:03:02 2024 +0200
+
+    Dodanie pliku Refren2.txt do repo
+
+commit 7b67436d0da7c5b92a677309ec3943d17cfa5b54
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:01:46 2024 +0200
+
+    Zastapienie zworki 4 na nazwe pliku Zwrotka4.txt w pliku Piosenka.txt
+
+commit 0811235be0714e4b01c47951091e0f22d4fad370
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:00:56 2024 +0200
+
+    Dodanie pliku Zwrotka4.txt do repo
+
+commit 7d1d21fd125ccff53b898e8a7527995ce7245158
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:58:59 2024 +0200
+
+    Zastapienie 1 refrenu nazwa pliku Refren1.txt w pliku Piosenka.txt
+
+commit 0bb5fef700543cb904df5d8511be1f22c398d9c2
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:57:56 2024 +0200
+
+    Dodanie pliku Refren.txt do repo
+
+commit 51cb8abb9b06497a30bbf3ddf6f9628846ab5387
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:56:31 2024 +0200
+
+    Zastapienie 3 zwrotki nazwa Zwrotka3.txt w pliku Piosenka.txt
+
+commit 9ad619b7a9b0fc13ee99e97c4282e1338000f09a
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:55:28 2024 +0200
+
+    Dodanie pliku Zwrotka3.txt do repo
+
+commit 877ffacdc3a7e4e1261657dd4b97197fdb38cb2e
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:54:05 2024 +0200
+
+    Zastapienie 2 zwrotki nazwa pliku Zwrotka2.txt w pliku Piosenka.txt
+
+commit 3d885c8e7542fac7da71795a14a6a4a5e73d753a
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:53:11 2024 +0200
+
+    Dodanie pliku Zwrotka2.txt do repo
+
+commit 552178381589577e4b2d5e2bdaeaa838d38b8704
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:51:48 2024 +0200
+
+    W pliku Piosenka.txt usunieta zwrotka zastapiona nazwa pliku Zwrotka1.txt
+
+commit cc5ec57ea775b5a3cb9f1ba49c18539e15d344cd
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:50:26 2024 +0200
+
+    Dodanie pliku Zwrotka1.txt dorepo
+
+commit 8ed830ca6c2459a1655f4baab2a5302687f2e36c
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:48:33 2024 +0200
+
+    Dodanie tytulu do piosenki w pliku Piosenka.txt
+
+commit e06342791813917baf621b64d6178915cc9510d7
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:44:16 2024 +0200
+
+    Dodanie pliku Piosenka.txt do repo
+(END)
+
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Piosenka.txt
+commit e1d2f8414130e4f754cb68fdb8b033515408a3cc (HEAD -> master)
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:24:07 2024 +0200
+
+    W pliku Piosenka.txt w miejscu nazwy usunietego pliku Refren2_powtorzenie.txt wpisano Refren2.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index aa9ecac..b9c15ea 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -17,4 +17,4 @@ Refren3.txt
+ 
+ Refren4.txt
+ 
+-Refren2_powtorzenie.txt
+\ No newline at end of file
++Refren2.txt
+\ No newline at end of file
+
+commit b2bb540018b7016236205d2604cfa42904c6e9e2
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:10:52 2024 +0200
+
+    Zastapienie ostatniego refrenu nazwa pliku Refren2_powtorzenie.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index 2dd4ca7..aa9ecac 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -17,7 +17,4 @@ Refren3.txt
+ 
+ Refren4.txt
+ 
+-Czemu ty się, zła godzino
+-Z niepotrzebnym mieszasz lękiem?
+-Jesteś – a więc musisz minąć
+-Miniesz – a więc to jest piękne
+\ No newline at end of file
++Refren2_powtorzenie.txt
+\ No newline at end of file
+
+commit 56ca1260e3e30a2f695b6cfe71f1dfce4c48001c
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:08:28 2024 +0200
+
+    Zastapienie refrenu 4 nazwa pliku Refren4.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index eb9f577..2dd4ca7 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -15,15 +15,7 @@ Refren2.txt
+
+ Refren3.txt
+
+-Uśmiechnięci, współobjęci
+-Próbujemy szukać zgody
+-Choć różnimy się od siebie
+-Jak dwie krople czystej wody
+-
+-Uśmiechnięci, współobjęci
+-Próbujemy szukać zgody
+-Choć różnimy się od siebie
+-Jak dwie krople czystej wody
++Refren4.txt
+
+ Czemu ty się, zła godzino
+ Z niepotrzebnym mieszasz lękiem?
+
+commit 64f76fb6e8c885e7fda4c5df772e54b06a326fc9
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:06:10 2024 +0200
+
+    Zastapienie refrenu 3 na nazwe pliku Refren3.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index f57f012..eb9f577 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -13,15 +13,7 @@ Zwrotka4.txt
+
+ Refren2.txt
+
+-Wczoraj, kiedy twoje imię
+-Ktoś wymówił przy mnie głośno
+-Tak mi było, jakby róża
+-Przez otwarte wpadła okno
+-
+-Wczoraj, kiedy twoje imię
+-Ktoś wymówił przy mnie głośno
+-Tak mi było, jakby róża
+-Przez otwarte wpadła okno
++Refren3.txt
+
+ Uśmiechnięci, współobjęci
+ Próbujemy szukać zgody
+
+commit fc988324b8281ae919f13536d903bdd16b44bbeb
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:04:09 2024 +0200
+
+    Zastapienie refrenu nr 2 nazwa pliku Refren2.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index 2bf851c..f57f012 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -11,10 +11,7 @@ Refren1.txt
+
+ Zwrotka4.txt
+
+-Czemu ty się, zła godzino
+-Z niepotrzebnym mieszasz lękiem?
+-Jesteś – a więc musisz minąć
+-Miniesz – a więc to jest piękne
++Refren2.txt
+
+ Wczoraj, kiedy twoje imię
+ Ktoś wymówił przy mnie głośno
+
+commit 7b67436d0da7c5b92a677309ec3943d17cfa5b54
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:01:46 2024 +0200
+
+    Zastapienie zworki 4 na nazwe pliku Zwrotka4.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index 81e719d..2bf851c 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -9,10 +9,7 @@ Zwrotka3.txt
+
+ Refren1.txt
+
+-Dziś, kiedy jesteśmy razem
+-Odwróciłam twarz ku ścianie
+-Róża? Jak wygląda róża?
+-Czy to kwiat? A może kamień?
++Zwrotka4.txt
+
+ Czemu ty się, zła godzino
+ Z niepotrzebnym mieszasz lękiem?
+
+commit 7d1d21fd125ccff53b898e8a7527995ce7245158
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:58:59 2024 +0200
+
+    Zastapienie 1 refrenu nazwa pliku Refren1.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index b52992d..81e719d 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -7,15 +7,7 @@ Zwrotka2.txt
+
+ Zwrotka3.txt
+
+-Wczoraj, kiedy twoje imię
+-Ktoś wymówił przy mnie głośno
+-Tak mi było, jakby róża
+-Przez otwarte wpadła okno
+-
+-Wczoraj, kiedy twoje imię
+-Ktoś wymówił przy mnie głośno
+-Tak mi było, jakby róża
+-Przez otwarte wpadła okno
++Refren1.txt
+
+ Dziś, kiedy jesteśmy razem
+ Odwróciłam twarz ku ścianie
+
+commit 51cb8abb9b06497a30bbf3ddf6f9628846ab5387
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:56:31 2024 +0200
+
+    Zastapienie 3 zwrotki nazwa Zwrotka3.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index ce9769c..b52992d 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -5,10 +5,7 @@ Zwrotka1.txt
+
+ Zwrotka2.txt
+
+-Żaden dzień się nie powtórzy
+-Nie ma dwóch podobnych nocy
+-Dwóch tych samych pocałunków
+-Dwóch jednakich spojrzeń w oczy
++Zwrotka3.txt
+
+ Wczoraj, kiedy twoje imię
+ Ktoś wymówił przy mnie głośno
+
+commit 877ffacdc3a7e4e1261657dd4b97197fdb38cb2e
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:54:05 2024 +0200
+
+    Zastapienie 2 zwrotki nazwa pliku Zwrotka2.txt w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index 02ad81d..ce9769c 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -3,10 +3,7 @@ na podst. ,,Nic dwa razy" W. Szymborksa
+
+ Zwrotka1.txt
+
+-Choćbyśmy uczniami byli
+-Najtępszymi w szkole świata
+-Nie będziemy repetować
+-Żadnej zimy ani lata
++Zwrotka2.txt
+
+ Żaden dzień się nie powtórzy
+ Nie ma dwóch podobnych nocy
+
+commit 552178381589577e4b2d5e2bdaeaa838d38b8704
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:51:48 2024 +0200
+
+    W pliku Piosenka.txt usunieta zwrotka zastapiona nazwa pliku Zwrotka1.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index 0556722..02ad81d 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -1,10 +1,7 @@
+ ,,Nic dwa razy" Sanah
+ na podst. ,,Nic dwa razy" W. Szymborksa
+
+-Nic dwa razy się nie zdarza
+-I nie zdarzy, z tej przyczyny
+-Zrodziliśmy się bez wprawy
+-I pomrzemy bez rutyny
++Zwrotka1.txt
+
+ Choćbyśmy uczniami byli
+ Najtępszymi w szkole świata
+
+commit 8ed830ca6c2459a1655f4baab2a5302687f2e36c
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:48:33 2024 +0200
+
+    Dodanie tytulu do piosenki w pliku Piosenka.txt
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+index fecfbf0..0556722 100644
+--- a/Piosenka.txt
++++ b/Piosenka.txt
+@@ -1,7 +1,11 @@
++,,Nic dwa razy" Sanah 
++na podst. ,,Nic dwa razy" W. Szymborksa
++
+ Nic dwa razy się nie zdarza
+ I nie zdarzy, z tej przyczyny
+ Zrodziliśmy się bez wprawy
+ I pomrzemy bez rutyny
++
+ Choćbyśmy uczniami byli
+ Najtępszymi w szkole świata
+ Nie będziemy repetować
+
+commit e06342791813917baf621b64d6178915cc9510d7
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:44:16 2024 +0200
+
+    Dodanie pliku Piosenka.txt do repo
+
+diff --git a/Piosenka.txt b/Piosenka.txt
+new file mode 100644
+index 0000000..fecfbf0
+--- /dev/null
++++ b/Piosenka.txt
+@@ -0,0 +1,58 @@
++Nic dwa razy się nie zdarza
++I nie zdarzy, z tej przyczyny
++Zrodziliśmy się bez wprawy
++I pomrzemy bez rutyny
++Choćbyśmy uczniami byli
++Najtępszymi w szkole świata
++Nie będziemy repetować
++Żadnej zimy ani lata
++
++Żaden dzień się nie powtórzy
++Nie ma dwóch podobnych nocy
++Dwóch tych samych pocałunków
++Dwóch jednakich spojrzeń w oczy
++
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
++
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
++
++Dziś, kiedy jesteśmy razem
++Odwróciłam twarz ku ścianie
++Róża? Jak wygląda róża?
++Czy to kwiat? A może kamień?
++
++Czemu ty się, zła godzino
++Z niepotrzebnym mieszasz lękiem?
++Jesteś – a więc musisz minąć
++Miniesz – a więc to jest piękne
++
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
++
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
++
++Uśmiechnięci, współobjęci
++Próbujemy szukać zgody
++Choć różnimy się od siebie
++Jak dwie krople czystej wody
++
++Uśmiechnięci, współobjęci
++Próbujemy szukać zgody
++Choć różnimy się od siebie
++Jak dwie krople czystej wody
++
++Czemu ty się, zła godzino
++Z niepotrzebnym mieszasz lękiem?
++Jesteś – a więc musisz minąć
++Miniesz – a więc to jest piękne
+\ No newline at end of file
+(END)
+
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Refren1.txt
+commit 564c5bda2f0a40628b7f580223fd98462f4480f2
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:14:24 2024 +0200
+
+    Revert "Usuniecie pierwszej linii w pliku Refren1.txt"
+    
+    This reverts commit 2c6179d70ee13ee5f3f9e6bd8e44cadaa7c4ce61.
+
+diff --git a/Refren1.txt b/Refren1.txt
+index 391b526..bd7bfd7 100644
+--- a/Refren1.txt
++++ b/Refren1.txt
+@@ -1,4 +1,4 @@
+-
++Wczoraj, kiedy twoje imię
+ Ktoś wymówił przy mnie głośno
+ Tak mi było, jakby róża
+ Przez otwarte wpadła okno
+
+commit 2c6179d70ee13ee5f3f9e6bd8e44cadaa7c4ce61
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:12:08 2024 +0200
+
+    Usuniecie pierwszej linii w pliku Refren1.txt
+
+diff --git a/Refren1.txt b/Refren1.txt
+index bd7bfd7..391b526 100644
+--- a/Refren1.txt
++++ b/Refren1.txt
+@@ -1,4 +1,4 @@
+-Wczoraj, kiedy twoje imię
++
+ Ktoś wymówił przy mnie głośno
+ Tak mi było, jakby róża
+ Przez otwarte wpadła okno
+
+commit 0bb5fef700543cb904df5d8511be1f22c398d9c2
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:57:56 2024 +0200
+
+    Dodanie pliku Refren.txt do repo
+
+diff --git a/Refren1.txt b/Refren1.txt
+new file mode 100644
+index 0000000..bd7bfd7
+--- /dev/null
++++ b/Refren1.txt
+@@ -0,0 +1,9 @@
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
++
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
+\ No newline at end of file
+(END)
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Refren2.txt
+commit c2b3917f3cc30635b418fbffecb2f2ba50bdf0f8
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:03:02 2024 +0200
+
+    Dodanie pliku Refren2.txt do repo
+
+diff --git a/Refren2.txt b/Refren2.txt
+new file mode 100644
+index 0000000..ce66660
+--- /dev/null
++++ b/Refren2.txt
+@@ -0,0 +1,4 @@
++Czemu ty się, zła godzino
++Z niepotrzebnym mieszasz lękiem?
++Jesteś – a więc musisz minąć
++Miniesz – a więc to jest piękne
+\ No newline at end of file
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Refren3.txt
+commit ef6899d381bf323d305b595a6ac163cf2be2d2f9
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:05:17 2024 +0200
+
+    Dodanie pliku Refren3.txt do repo
+
+diff --git a/Refren3.txt b/Refren3.txt
+new file mode 100644
+index 0000000..bd7bfd7
+--- /dev/null
++++ b/Refren3.txt
+@@ -0,0 +1,9 @@
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
++
++Wczoraj, kiedy twoje imię
++Ktoś wymówił przy mnie głośno
++Tak mi było, jakby róża
++Przez otwarte wpadła okno
+\ No newline at end of file
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Refren4.txt
+commit d8346c538181abe04a16382742f2e8cbd35c7b80
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:07:40 2024 +0200
+
+    Dodanie pliku Refren4.txt do repo
+
+diff --git a/Refren4.txt b/Refren4.txt
+new file mode 100644
+index 0000000..e9ff197
+--- /dev/null
++++ b/Refren4.txt
+@@ -0,0 +1,9 @@
++Uśmiechnięci, współobjęci
++Próbujemy szukać zgody
++Choć różnimy się od siebie
++Jak dwie krople czystej wody
++
++Uśmiechnięci, współobjęci
++Próbujemy szukać zgody
++Choć różnimy się od siebie
++Jak dwie krople czystej wody
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Zwrotka1.txt 
+commit cc5ec57ea775b5a3cb9f1ba49c18539e15d344cd
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:50:26 2024 +0200
+
+    Dodanie pliku Zwrotka1.txt dorepo
+
+diff --git a/Zwrotka1.txt b/Zwrotka1.txt
+new file mode 100644
+index 0000000..4440c18
+--- /dev/null
++++ b/Zwrotka1.txt
+@@ -0,0 +1,4 @@
++Nic dwa razy się nie zdarza
++I nie zdarzy, z tej przyczyny
++Zrodziliśmy się bez wprawy
++I pomrzemy bez rutyny
+\ No newline at end of file
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Zwrotka2.txt
+commit 3d885c8e7542fac7da71795a14a6a4a5e73d753a
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:53:11 2024 +0200
+
+    Dodanie pliku Zwrotka2.txt do repo
+
+diff --git a/Zwrotka2.txt b/Zwrotka2.txt
+new file mode 100644
+index 0000000..270d863
+--- /dev/null
++++ b/Zwrotka2.txt
+@@ -0,0 +1,4 @@
++Choćbyśmy uczniami byli
++Najtępszymi w szkole świata
++Nie będziemy repetować
++Żadnej zimy ani lata
+\ No newline at end of file
+
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Zwrotka3.txt
+commit 9ad619b7a9b0fc13ee99e97c4282e1338000f09a
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 15:55:28 2024 +0200
+
+    Dodanie pliku Zwrotka3.txt do repo
+
+diff --git a/Zwrotka3.txt b/Zwrotka3.txt
+new file mode 100644
+index 0000000..13c987d
+--- /dev/null
++++ b/Zwrotka3.txt
+@@ -0,0 +1,4 @@
++Żaden dzień się nie powtórzy
++Nie ma dwóch podobnych nocy
++Dwóch tych samych pocałunków
++Dwóch jednakich spojrzeń w oczy
+\ No newline at end of file
+
+
+PS C:\Users\Aleksandra Wicek\PycharmProjects\pythonProject_piosenka> git log -p Zwrotka4.txt
+commit 0811235be0714e4b01c47951091e0f22d4fad370
+Author: Aleksandra <aleksandra.wicek@gmail.com>
+Date:   Sun Apr 14 16:00:56 2024 +0200
+
+    Dodanie pliku Zwrotka4.txt do repo
+
+diff --git a/Zwrotka4.txt b/Zwrotka4.txt
+new file mode 100644
+index 0000000..4b70907
+--- /dev/null
++++ b/Zwrotka4.txt
+@@ -0,0 +1,4 @@
++Dziś, kiedy jesteśmy razem
++Odwróciłam twarz ku ścianie
++Róża? Jak wygląda róża?
++Czy to kwiat? A może kamień?
+\ No newline at end of file
